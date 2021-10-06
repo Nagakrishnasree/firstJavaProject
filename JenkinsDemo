@@ -1,0 +1,8 @@
+import java.io.*;
+class JenkinsDemo
+{
+public static void main(String args[])
+{
+System.out.printn("hello world");
+}
+}
